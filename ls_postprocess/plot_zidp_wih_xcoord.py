@@ -5,7 +5,6 @@ Date: 04-15-2025
 import numpy as np
 import matplotlib.pyplot as plt
 import os
-from scipy.io import loadmat
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(current_dir)
