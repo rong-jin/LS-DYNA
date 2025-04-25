@@ -1,3 +1,7 @@
+"""
+Author: Rong Jin, University of Kentucky
+Date: 04-25-2025
+"""
 import numpy as np
 import os
 import matplotlib.pyplot as plt
