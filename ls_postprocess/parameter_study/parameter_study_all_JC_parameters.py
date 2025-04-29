@@ -34,7 +34,7 @@ param_labels = ['RA', 'RB', 'Rn', 'RC', 'Rm', 'RD1', 'RD2', 'RD3', 'RD4', 'RD5']
 with open(mat_file, 'r') as f:
     params_true = [float(line.strip()) for line in f]
 
-param_adjustment = 0.1  # 50%
+param_adjustment = 0.1  # 10%
 selected_params = ['A', 'B', 'n', 'C', 'm', 'D1', 'D2', 'D3', 'D4', 'D5']
 
 # ----------------------------------------------------------------------------
