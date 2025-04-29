@@ -36,7 +36,6 @@ with open(mat_file, 'r') as f:
 
 param_adjustment = 0.1  # 50%
 selected_params = ['A', 'B', 'n', 'C', 'm', 'D1', 'D2', 'D3', 'D4', 'D5']
-# selected_params = ['D4', 'D5']
 
 # ----------------------------------------------------------------------------
 # Utility: delete files starting with 'd3' in a given folder
