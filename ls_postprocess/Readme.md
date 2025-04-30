@@ -75,10 +75,3 @@ python delete_d3plot_files.py
 
 This will remove all `d3plot*` files under `path/to/project` recursively.
 
-## License
-
-Released under the MIT License.
-
----
-
-*For questions or feedback, please contact the repository maintainer.*
