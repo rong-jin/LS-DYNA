@@ -1,5 +1,7 @@
-
-import os
+"""
+Author: Rong Jin, University of Kentucky
+Date: 04-30-2025
+"""
 
 def delete_d3plot_files(root_dir):
     """
