@@ -2,7 +2,7 @@
 Author: Rong Jin, University of Kentucky
 Date: 04-30-2025
 """
-
+import os
 def delete_d3plot_files(root_dir):
     """
     Recursively traverse the specified directory and its subdirectories, removing all files that start with the prefix "d3plot".
@@ -39,4 +39,5 @@ if __name__ == "__main__":
     os.chdir(current_dir)
     # Invoke the deletion function on the current directory
     delete_d3plot_files(current_dir)  # Remove all d3plot files under this directory and its subdirectories
+
 
